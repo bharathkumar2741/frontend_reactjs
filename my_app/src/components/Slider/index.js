@@ -26,9 +26,6 @@ function Sliding() {
                     <li>Electronic Accessories</li>
                     <li>Groceries & Pets</li>
                     <li>Babies & Toys</li>
-                    <li>Home & Outdoor</li>
-                    <li>Motors, Tools & DIY</li>
-                    <li>Mobiles & Electronics</li>
                 </ul>
             </div>
             <div className="image-slider-container">
@@ -41,103 +38,189 @@ function Sliding() {
                 </Slider>
             </div>
             </div>
-            <div className='cards'>
-            <div className='card2'>
-               <div className='four-container'>
-                <h1>Up to 70% | Get festive ready</h1>
-                <div className='four-card'>
-                <div>
-                    <div className="padding-four">
-                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-186-116._SY116_CB636110853_.jpg"/>
-                        <br/>
-                        <span className='four-span'>Clothing</span>
+            <div className='main-card'>
+                <div className='cards'>
+                    
+                    
+                    <div className='card2'>
+                        <div className='four-container'>
+                            <h1 className='four-card-heading'>Up to 70% | Get festive ready</h1>
+                            <div className='four-card'>
+                                <div>
+                                    <div className="padding-four">
+                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-186-116._SY116_CB636110853_.jpg"/>
+                                        <br/>
+                                        <span className='four-span'>Clothing</span>
+                                    </div>
+                                    <div className="padding-four">
+                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-2-186-116._SY116_CB636110853_.jpg"/>
+                                        <br/>
+                                        <span className='four-span'>Clothing</span>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div className="padding-four">
+                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-186-116._SY116_CB636110853_.jpg"/>
+                                        <br/>
+                                        <span className='four-span'>Clothing</span>
+                                    </div>
+                                    <div className="padding-four">
+                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-2-186-116._SY116_CB636110853_.jpg"/>
+                                        <br/>
+                                        <span className='four-span'>Clothing</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <div className="padding-four">
-                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-2-186-116._SY116_CB636110853_.jpg"/>
-                        <br/>
-                        <span className='four-span'>Clothing</span>
-                    </div>
+                    
                 </div>
-                <div>
-                    <div className="padding-four">
-                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-186-116._SY116_CB636110853_.jpg"/>
-                        <br/>
-                        <span className='four-span'>Clothing</span>
+                <div className='cards'>
+                    
+                    
+                    <div className='card2'>
+                        <div className='four-container'>
+                            <h1 className='four-card-heading'>Up to 70% | Get festive ready</h1>
+                            <div className='four-card'>
+                                <div>
+                                    <div className="padding-four">
+                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-186-116._SY116_CB636110853_.jpg"/>
+                                        <br/>
+                                        <span className='four-span'>Clothing</span>
+                                    </div>
+                                    <div className="padding-four">
+                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-2-186-116._SY116_CB636110853_.jpg"/>
+                                        <br/>
+                                        <span className='four-span'>Clothing</span>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div className="padding-four">
+                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-186-116._SY116_CB636110853_.jpg"/>
+                                        <br/>
+                                        <span className='four-span'>Clothing</span>
+                                    </div>
+                                    <div className="padding-four">
+                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-2-186-116._SY116_CB636110853_.jpg"/>
+                                        <br/>
+                                        <span className='four-span'>Clothing</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <div className="padding-four">
-                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-2-186-116._SY116_CB636110853_.jpg"/>
-                        <br/>
-                        <span className='four-span'>Clothing</span>
-                    </div>
+                    
                 </div>
+                <div className='cards'>
+                    
+                    
+                    <div className='card2'>
+                        <div className='four-container'>
+                            <h1 className='four-card-heading'>Up to 70% | Get festive ready</h1>
+                            <div className='four-card'>
+                                <div>
+                                    <div className="padding-four">
+                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-186-116._SY116_CB636110853_.jpg"/>
+                                        <br/>
+                                        <span className='four-span'>Clothing</span>
+                                    </div>
+                                    <div className="padding-four">
+                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-2-186-116._SY116_CB636110853_.jpg"/>
+                                        <br/>
+                                        <span className='four-span'>Clothing</span>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div className="padding-four">
+                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-186-116._SY116_CB636110853_.jpg"/>
+                                        <br/>
+                                        <span className='four-span'>Clothing</span>
+                                    </div>
+                                    <div className="padding-four">
+                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-2-186-116._SY116_CB636110853_.jpg"/>
+                                        <br/>
+                                        <span className='four-span'>Clothing</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
                 </div>
-               </div>
-            </div>
-            <div className='card2'>
-            <div className='four-container'>
-                <h1>Up to 70% | Get festive ready</h1>
-                <div className='four-card'>
-                <div>
-                    <div className="padding-four">
-                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-186-116._SY116_CB636110853_.jpg"/>
-                        <br/>
-                        <span className='four-span'>Clothing</span>
+                <div className='cards'>
+                    
+                    
+                    <div className='card2'>
+                        <div className='four-container'>
+                            <h1 className='four-card-heading'>Up to 70% | Get festive ready</h1>
+                            <div className='four-card'>
+                                <div>
+                                    <div className="padding-four">
+                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-186-116._SY116_CB636110853_.jpg"/>
+                                        <br/>
+                                        <span className='four-span'>Clothing</span>
+                                    </div>
+                                    <div className="padding-four">
+                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-2-186-116._SY116_CB636110853_.jpg"/>
+                                        <br/>
+                                        <span className='four-span'>Clothing</span>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div className="padding-four">
+                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-186-116._SY116_CB636110853_.jpg"/>
+                                        <br/>
+                                        <span className='four-span'>Clothing</span>
+                                    </div>
+                                    <div className="padding-four">
+                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-2-186-116._SY116_CB636110853_.jpg"/>
+                                        <br/>
+                                        <span className='four-span'>Clothing</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <div className="padding-four">
-                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-2-186-116._SY116_CB636110853_.jpg"/>
-                        <br/>
-                        <span className='four-span'>Clothing</span>
-                    </div>
+                    
                 </div>
-                <div>
-                    <div className="padding-four">
-                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-186-116._SY116_CB636110853_.jpg"/>
-                        <br/>
-                        <span className='four-span'>Clothing</span>
-                    </div>
-                    <div className="padding-four">
-                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-2-186-116._SY116_CB636110853_.jpg"/>
-                        <br/>
-                        <span className='four-span'>Clothing</span>
-                    </div>
-                </div>
-                </div>
-               </div>
-            </div>
-            <div className='card2'>
-            <div className='four-container'>
-                <h1>Up to 70% | Get festive ready</h1>
-                <div className='four-card'>
-                <div>
-                    <div className="padding-four">
-                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-186-116._SY116_CB636110853_.jpg"/>
-                        <br/>
-                        <span className='four-span'>Clothing</span>
-                    </div>
-                    <div className="padding-four">
-                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-2-186-116._SY116_CB636110853_.jpg"/>
-                        <br/>
-                        <span className='four-span'>Clothing</span>
-                    </div>
-                </div>
-                <div>
-                    <div className="padding-four">
-                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-186-116._SY116_CB636110853_.jpg"/>
-                        <br/>
-                        <span className='four-span'>Clothing</span>
-                    </div>
-                    <div className="padding-four">
-                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-2-186-116._SY116_CB636110853_.jpg"/>
-                        <br/>
-                        <span className='four-span'>Clothing</span>
-                    </div>
-                </div>
-                </div>
-               </div>
-            </div>
-
+                
             </div>
             <span className='head'>Categories</span>
+                <div className='small-card-container'>
+                    <div className='small-card'>
+                        <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/18c653784187d37c2e6d014ae7a37738.jpg"/>
+                        <span className='small-span'>Wireless EarBuds</span>
+                    </div>
+                    <div className='small-card'>
+                        <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/18c653784187d37c2e6d014ae7a37738.jpg"/>
+                        <span className='small-span'>Wireless EarBuds</span>
+                    </div>
+                    <div className='small-card'>
+                        <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/18c653784187d37c2e6d014ae7a37738.jpg"/>
+                        <span className='small-span'>Wireless EarBuds</span>
+                    </div>
+                    <div className='small-card'>
+                        <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/18c653784187d37c2e6d014ae7a37738.jpg"/>
+                        <span className='small-span'>Wireless EarBuds</span>
+                    </div>
+                    <div className='small-card'>
+                        <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/18c653784187d37c2e6d014ae7a37738.jpg"/>
+                        <span className='small-span'>Wireless EarBuds</span>
+                    </div>
+                    <div className='small-card'>
+                        <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/18c653784187d37c2e6d014ae7a37738.jpg"/>
+                        <span className='small-span'>Wireless EarBuds</span>
+                    </div>
+                    <div className='small-card'>
+                        <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/18c653784187d37c2e6d014ae7a37738.jpg"/>
+                        <span className='small-span'>Wireless EarBuds</span>
+                    </div>
+                    <div className='small-card'>
+                        <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/18c653784187d37c2e6d014ae7a37738.jpg"/>
+                        <span className='small-span'>Wireless EarBuds</span>
+                    </div>
+                   
+                </div>
             <div className='small-card-container'>
                 <div className='small-card'>
                     <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/18c653784187d37c2e6d014ae7a37738.jpg"/>
@@ -171,48 +254,7 @@ function Sliding() {
                     <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/18c653784187d37c2e6d014ae7a37738.jpg"/>
                     <span className='small-span'>Wireless EarBuds</span>
                 </div>
-                <div className='small-card'>
-                    <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/18c653784187d37c2e6d014ae7a37738.jpg"/>
-                    <span className='small-span'>Wireless EarBuds</span>
-                </div>
-            </div>
-            <div className='small-card-container'>
-                <div className='small-card'>
-                    <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/18c653784187d37c2e6d014ae7a37738.jpg"/>
-                    <span className='small-span'>Wireless EarBuds</span>
-                </div>
-                <div className='small-card'>
-                    <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/18c653784187d37c2e6d014ae7a37738.jpg"/>
-                    <span className='small-span'>Wireless EarBuds</span>
-                </div>
-                <div className='small-card'>
-                    <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/18c653784187d37c2e6d014ae7a37738.jpg"/>
-                    <span className='small-span'>Wireless EarBuds</span>
-                </div>
-                <div className='small-card'>
-                    <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/18c653784187d37c2e6d014ae7a37738.jpg"/>
-                    <span className='small-span'>Wireless EarBuds</span>
-                </div>
-                <div className='small-card'>
-                    <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/18c653784187d37c2e6d014ae7a37738.jpg"/>
-                    <span className='small-span'>Wireless EarBuds</span>
-                </div>
-                <div className='small-card'>
-                    <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/18c653784187d37c2e6d014ae7a37738.jpg"/>
-                    <span className='small-span'>Wireless EarBuds</span>
-                </div>
-                <div className='small-card'>
-                    <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/18c653784187d37c2e6d014ae7a37738.jpg"/>
-                    <span className='small-span'>Wireless EarBuds</span>
-                </div>
-                <div className='small-card'>
-                    <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/18c653784187d37c2e6d014ae7a37738.jpg"/>
-                    <span className='small-span'>Wireless EarBuds</span>
-                </div>
-                <div className='small-card'>
-                    <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/18c653784187d37c2e6d014ae7a37738.jpg"/>
-                    <span className='small-span'>Wireless EarBuds</span>
-                </div>
+                
             </div>
         </div>
     );

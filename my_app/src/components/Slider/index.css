@@ -24,6 +24,7 @@
     border-color:gray ;
     border-width: 1px;
     border-style: solid;
+    overflow: hidden;
     width: 20%;
     margin: 20px;
     margin-left: 10%;
@@ -31,14 +32,22 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     
   }
+  .main-card{
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+  }
   .card2{
-    height:51vh;
+    height:45vh;
     background-color: #ffffff;
     border-color:gray ;
     border-width: 1px;
     border-style: solid;
-    width: 100%;
-    margin: 20px;
+  
+    margin: 5px;
     padding-bottom: 10px;
     border-radius: 5px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -53,7 +62,7 @@
    
   }
   .items{
-    font-size: 23px;
+    font-size: 20px;
     
     color: gray;
     display: flex;
@@ -66,19 +75,11 @@
     min-height: 200vh;
     background-color: #f5f5f5;
   }
-  .cards{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    margin-right: 7%;
-    width: 100%;
-
-  }
+  
   .four-card{
     display: flex;
     flex-direction: row;
-  
+    height: 10vh;
     
   }
   .four-container{
@@ -86,6 +87,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    
    
   }
   .padding-four{
@@ -93,12 +95,14 @@
     padding: 8px;
   }
   .four-img{
-    height: 150px;
+    height: 90px;
   }
   .four-span{
     font-weight: bold;
+    font-size: 12px;
   }
   .small-card{
+    padding-bottom: 20px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -113,6 +117,7 @@
   .small-span{
     font-weight: bold;
     
+    
   }
   .small-card-container{
     display: flex;
@@ -121,9 +126,12 @@
     justify-content: center;
   }
   .head{
-    margin-left: 7%;
-    font-size: 40px;
+    margin-left: 3%;
+   
+    font-size: 30px;
     
   }
-
+.four-card-heading{
+  font-size: 20px;
+}
   

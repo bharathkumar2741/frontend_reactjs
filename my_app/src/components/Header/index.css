@@ -1,15 +1,19 @@
 .nav-header {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     background-color: #121212;
+   
     /* height: 20vh; */
   }
   .nav-content {
     display: flex;
     align-items: center;
-    justify-content: center;
-    width: 90%;
+    justify-content: space-between;
+    width: 100%;
+    margin-left: 3%;
+    margin-right: 3%;
+    height: 80px;
     /* background-color: aqua; */
     
   }
@@ -25,7 +29,7 @@
 
   .website-logo {
     width: 150px;
-    height: 90px;
+    height: 80px;
     
   }
   .nav-menu {
@@ -75,13 +79,14 @@
  .update_heading{
     color: white;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 18px;
  }
  .delivering_para{
     color: #ffffffee;
+    font-size: 10px;
  }
  .india{
-    width: 40px;
+    width: 38px;
     padding: 3px;
  }
  .India-icon{
@@ -106,7 +111,7 @@
  }
  .input{
     width: 80vh;
-    height: 58px;
+    height: 45px;
     border: 0;
     padding: 3px;
     font-size: 30px;
@@ -117,7 +122,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 60px;
+    height: 45px;
     width: 70vh;
     border: 0;
     border-radius: 5px;
@@ -127,7 +132,7 @@
     padding: 5px;
  }
  .all-categories{
-    height: 58px;
+    height: 45px;
     border: 0;
     margin-right: 5px;
     font-size: 20px;
